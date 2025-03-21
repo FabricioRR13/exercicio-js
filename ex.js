@@ -55,35 +55,35 @@
 
 // exercicio Intermediario 1
 
- let numero1 =  prompt("Digite o primeiro numero")
- let numero2 = prompt("Digite o segundo numero")
- let operacao = prompt("Digite a operacao")
+//  let numero1 =  prompt("Digite o primeiro numero")
+//  let numero2 = prompt("Digite o segundo numero")
+//  let operacao = prompt("Digite a operacao")
 
- switch (operacao){
- case 1:
-    let soma = numero1 + numero2;
-    console.log("soma");
-    break;
-    case 2:
-    let subtracao = numero1 - numero2;
-    console.log("subtracao")
-    break;
-    case 3:
-    let multiplicacao = numero1 * numero3;
-    console.log("multiplicacao")
-    break;
-    case 4:
-        let divisao = numero % numero2;
-        break;
+//  switch (operacao){
+//  case 1:
+//     let soma = numero1 + numero2;
+//     console.log("soma");
+//     break;
+//     case 2:
+//     let subtracao = numero1 - numero2;
+//     console.log("subtracao")
+//     break;
+//     case 3:
+//     let multiplicacao = numero1 * numero3;
+//     console.log("multiplicacao")
+//     break;
+//     case 4:
+//         let divisao = numero % numero2;
+//         break;
         
- }
+//  }
 
 
- exercicio inter 2
+//  exercicio inter 2
 
- let numero1 =  prompt("Digite o primeiro numero")
- let numero2 = prompt("Digite o segundo numero")
- let operacao = prompt("Digite o terceiro numero")
+//  let numero1 =  prompt("Digite o primeiro numero")
+//  let numero2 = prompt("Digite o segundo numero")
+//  let operacao = prompt("Digite o terceiro numero")
 
 
 
